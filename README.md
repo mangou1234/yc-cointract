@@ -1,4 +1,4 @@
-＃ 简要介绍
+＃ 简介
 
 附上老师的博客地址（http://blog.hiddenwangcc.com/）
 
